@@ -1,0 +1,19 @@
+.navbar-nav .nav-link {
+    color: white !important;
+  }
+  
+  .navbar {
+    border-bottom: 4px solid orange; /* Bottom border */
+  }
+  
+  .nav-link:hover {
+    background-color: orange; /* Hover effect */
+    border-radius: 30px;
+    margin-top: 5px;
+   
+   padding-top: 3px;
+   padding-bottom: 4px;
+   
+    color: black !important;
+  }
+

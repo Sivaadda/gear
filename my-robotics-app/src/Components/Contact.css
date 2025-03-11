@@ -1,0 +1,58 @@
+.animated-home-page {
+  position: relative;
+  height: 100vh;
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  display: flex;
+  flex-direction: column;
+}
+
+.animated-header {
+  z-index: 10;
+  width: 100%;
+}
+
+.animated-intro {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.animated-text {
+  font-size: 3rem;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.animated-subtext {
+  font-size: 1.5rem;
+  animation: fadeIn 4s ease-in-out;
+}
+
+.animated-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: white;
+  border: none;
+  color: black;
+  border-radius: 30px;
+  cursor: pointer;
+  animation: fadeIn 6s ease-in-out;
+}
+
+.animated-button:hover {
+  background-color: black;
+  color: white;
+}
+
+/* Keyframes for fadeIn animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
