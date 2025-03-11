@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gear/static/css/main.88f70579.css",
+    "main.js": "/gear/static/js/main.0dd36adf.js",
+    "static/js/453.9c25c959.chunk.js": "/gear/static/js/453.9c25c959.chunk.js",
+    "index.html": "/gear/index.html",
+    "main.88f70579.css.map": "/gear/static/css/main.88f70579.css.map",
+    "main.0dd36adf.js.map": "/gear/static/js/main.0dd36adf.js.map",
+    "453.9c25c959.chunk.js.map": "/gear/static/js/453.9c25c959.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88f70579.css",
+    "static/js/main.0dd36adf.js"
+  ]
+}
